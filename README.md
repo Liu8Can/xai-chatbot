@@ -1,5 +1,12 @@
 # XAI Chatbot（XAI 聊天机器人）
 
+ <div align="center">
+    
+[English](README.en.md)   [中文](README.md)
+    
+</div>
+
+
 🤖 一个基于 [XAI API](https://x.ai) 构建的简单聊天机器人脚本。该聊天机器人可以进行交互式对话，并将聊天会话记录到本地文件中。每个会话都带有时间戳，并清晰区分用户和机器人（助手）之间的消息。
 
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
